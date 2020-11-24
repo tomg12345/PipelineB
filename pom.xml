@@ -22,8 +22,8 @@
         <dependencies>
 		<dependency>
 			<groupId>com.github.tomg12345</groupId>
-			<artifactId>PipelineA</artifactId>
-			<version>3</version>
+			<artifactId>CI_PipelineA</artifactId>
+			<version>v1.1</version>
 		</dependency>
 
 
